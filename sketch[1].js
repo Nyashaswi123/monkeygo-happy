@@ -14,16 +14,8 @@ monkey_running =  loadAnimation("sprite_0.png","sprite_1.png",
   "sprite_7.png","sprite_8.png")
   
 bananaImage = loadImage("banana.png");
-obstacleImage = loadImage("obstacle.png");
- 
-
-  
-  
-  
+obstacleImage = loadImage("obstacle.png");  
 }
-
-
-
 function setup() {
   createCanvas(600,350);
   score=0;
